@@ -1,6 +1,6 @@
 # MultiModNet
 
-This repository contains the 3rd solution (PAGNet models) for the 2nd Agriculture-Vision Prize Challenge (CVPR 2021), and a pytorch implementation of the MultiModNet framework as described in our paper: ["Multi-modal land cover mapping of remote sensing images using pyramid attention and gated fusion networks".](https://arxiv.org/abs/2111.03845) 
+This repository contains the 3rd place solution (PAGNet models) for the 2nd Agriculture-Vision Prize Challenge (CVPR 2021), and a pytorch implementation of the MultiModNet framework as described in our paper: ["Multi-modal land cover mapping of remote sensing images using pyramid attention and gated fusion networks".](https://arxiv.org/abs/2111.03845) 
 
 ## Overview ##
 
